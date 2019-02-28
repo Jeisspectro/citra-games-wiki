@@ -1,0 +1,9 @@
+title = "Mario & Luigi: Bowser's Inside Story + Bowser Jr's Journey"
+description = "Last RPG of Mario & Luigi (Remastered of the title of 2009). Good game"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001D1400"
+region = "Estados Unidos"
+release_date = "2019-01-11"
